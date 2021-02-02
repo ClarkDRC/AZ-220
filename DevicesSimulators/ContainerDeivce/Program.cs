@@ -15,13 +15,13 @@ namespace ContainerDevice
     class Program
     {
         // Azure Device Provisioning Service (DPS) ID Scope
-        private static string dpsIdScope = "0ne001DA9D3";
+        private static string dpsIdScope = "";
         // Registration ID
-        private static string registrationId = "sensor-thl-1000";
+        private static string registrationId = "";
         // Individual Enrollment Primary Key
-        private const string individualEnrollmentPrimaryKey = "xiOuZtNJaKDq1rJ6BmLfnylYyqDSGAEWtMr+dmKdZZIj+3t9eRHqliH+NbvwRVNNnpK2uNZBfRp8BL3BXmdS3g==";
+        private const string individualEnrollmentPrimaryKey = "";
         // Individual Enrollment Secondary Key
-        private const string individualEnrollmentSecondaryKey = "9fxEXwo2DIVfdv2h47RBRo/FD2sypB/TNzhjQp4GeCsFXVEp3KL0pHUbpmSafM1JwOJOOgLa8Xke+g5IZqT2Nw==";
+        private const string individualEnrollmentSecondaryKey = "";
 
         private const string GlobalDeviceEndpoint = "global.azure-devices-provisioning.net";
 
