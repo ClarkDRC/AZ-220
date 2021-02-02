@@ -1,0 +1,62 @@
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\VibrationDevice.exe
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\VibrationDevice.deps.json
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\VibrationDevice.runtimeconfig.json
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\VibrationDevice.runtimeconfig.dev.json
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\VibrationDevice.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\VibrationDevice.pdb
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\DotNetty.Buffers.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\DotNetty.Codecs.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\DotNetty.Codecs.Mqtt.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\DotNetty.Common.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\DotNetty.Handlers.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\DotNetty.Transport.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Client.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Shared.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.csprojAssemblyReference.cache
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.AssemblyInfoInputs.cache
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.AssemblyInfo.cs
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.csproj.CoreCompileInputs.cache
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.csproj.CopyComplete
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.dll
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.pdb
+C:\AZ-220-Labs\Allfiles\Labs\07-Device Message Routing\Starter\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.genruntimeconfig.cache
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\VibrationDevice.exe
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\VibrationDevice.deps.json
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\VibrationDevice.runtimeconfig.json
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\VibrationDevice.runtimeconfig.dev.json
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\VibrationDevice.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\VibrationDevice.pdb
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\DotNetty.Buffers.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\DotNetty.Codecs.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\DotNetty.Codecs.Mqtt.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\DotNetty.Common.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\DotNetty.Handlers.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\DotNetty.Transport.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Client.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Shared.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.csprojAssemblyReference.cache
+C:\AZ-220-Labs\Devives\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.AssemblyInfoInputs.cache
+C:\AZ-220-Labs\Devives\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.AssemblyInfo.cs
+C:\AZ-220-Labs\Devives\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.csproj.CoreCompileInputs.cache
+C:\AZ-220-Labs\Devives\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.csproj.CopyComplete
+C:\AZ-220-Labs\Devives\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.dll
+C:\AZ-220-Labs\Devives\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.pdb
+C:\AZ-220-Labs\Devives\VibrationDevice\obj\Debug\netcoreapp3.1\VibrationDevice.genruntimeconfig.cache
